@@ -1,0 +1,21 @@
+{
+  "name": "node-mysql",
+  "description": "node mysql",
+  "main": "",
+  "authors": [
+    "idward <idward@vip.sina.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
